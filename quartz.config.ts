@@ -100,7 +100,6 @@ const config: QuartzConfig = {
 
     filters: [
       Plugin.RemoveDrafts(),      // Notizen mit "draft: true" ausblenden
-      Plugin.ExplicitPublish(),   // Optional: nur Notizen mit "publish: true" veröffentlichen
                                   // ← Auskommentieren wenn ALLE Notizen veröffentlicht werden sollen
     ],
 
