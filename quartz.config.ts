@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "de-CH",
+    locale: "de-DE",
     baseUrl: "lleean.github.io/law",
     ignorePatterns: [".obsidian", "_Templates", "Drafts", "Excalidraw", "private"],
     defaultDateType: "modified",
