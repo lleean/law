@@ -1,0 +1,33 @@
+---
+aliases: ZGB 463
+Gesetz: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
+Abkürzung: ZGB
+Artikel: '463'
+Stand: 1. Januar 2026
+Abteilung: 'Erste Abteilung: Die Erben'
+Teil: ''
+Titel: 'Dreizehnter Titel: Die gesetzlichen Erben'
+Kapitel: ''
+Abschnitt: ''
+Marginalien: B. Überlebende Ehegatten und überlebende eingetragene Partnerinnen oder
+  Partner
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 463 ZGB
+> *(Text konnte nicht automatisch extrahiert werden)*
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

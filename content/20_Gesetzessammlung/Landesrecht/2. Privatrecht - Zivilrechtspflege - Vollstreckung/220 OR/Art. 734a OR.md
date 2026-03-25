@@ -1,0 +1,56 @@
+---
+aliases: OR 734a
+Gesetz: 'Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen
+  Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)'
+Abkürzung: OR
+Artikel: 734a
+Stand: 1. Januar 2026
+Abteilung: 'Dritte Abteilung: Die Handelsgesellschaften und die Genossenschaft'
+Teil: ''
+Titel: 'Sechsundzwanzigster Titel: Die Aktiengesellschaft'
+Kapitel: C. Vergütungsbericht
+Abschnitt: 'Vierter Abschnitt: Vergütungen bei Gesellschaften, deren Aktien an einer
+  Börse kotiert sind'
+Marginalien: II. Vergütungen an den Verwaltungsrat, die Geschäftsleitung und den Beirat
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 734a OR
+> <sup>1</sup> Im Vergütungsbericht sind alle Vergütungen anzugeben, welche die Gesellschaft direkt oder indirekt ausgerichtet hat an:
+> >1. gegenwärtige Mitglieder des Verwaltungsrats;
+> >2. gegenwärtige Mitglieder der Geschäftsleitung;
+> >3. gegenwärtige Mitglieder des Beirats;
+> >4. frühere Mitglieder des Verwaltungsrats, der Geschäftsleitung und des Beirats, sofern sie in einem Zusammenhang mit der früheren Tätigkeit als Organ der Gesellschaft stehen; ausgenommen sind Leistungen der beruflichen Vorsorge.
+> 
+> <sup>2</sup> Als Vergütungen gelten insbesondere:
+> >1. Honorare, Löhne, Bonifikationen und Gutschriften;
+> >2. Tantiemen, Beteiligungen am Umsatz und andere Beteiligungen am Geschäftsergebnis;
+> >3. Dienst- und Sachleistungen;
+> >4. die Zuteilung von Beteiligungspapieren, Wandel- und Optionsrechten;
+> >5. Antrittsprämien;
+> >6. Bürgschaften, Garantieverpflichtungen, Pfandbestellungen und andere Sicherheiten;
+> >7. der Verzicht auf Forderungen;
+> >8. Aufwendungen, die Ansprüche auf Vorsorgeleistungen begründen oder erhöhen;
+> >9. sämtliche Leistungen für zusätzliche Arbeiten;
+> >10. Entschädigungen im Zusammenhang mit Konkurrenzverboten.
+> 
+> <sup>3</sup> Die Angaben zu den Vergütungen umfassen:
+> >1. den Gesamtbetrag für den Verwaltungsrat und den auf jedes Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds;
+> >2. den Gesamtbetrag für die Geschäftsleitung und den höchsten auf ein Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds;
+> >3. den Gesamtbetrag für den Beirat und den auf jedes Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds;
+> >4. gegebenenfalls die Namen und Funktionen der Mitglieder der Geschäftsleitung, an die Zusatzbeträge bezahlt wurden.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

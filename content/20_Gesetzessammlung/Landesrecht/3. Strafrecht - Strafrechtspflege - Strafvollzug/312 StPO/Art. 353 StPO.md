@@ -1,0 +1,51 @@
+---
+aliases: StPO 353
+Gesetz: Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung,
+  StPO)
+Abkürzung: StPO
+Artikel: '353'
+Stand: 1. April 2025
+Abteilung: ''
+Teil: ''
+Titel: '8. Titel: Besondere Verfahren'
+Kapitel: '1. Kapitel: Strafbefehlsverfahren, Übertretungsstrafverfahren'
+Abschnitt: '1. Abschnitt: Strafbefehlsverfahren'
+Marginalien: Inhalt und Eröffnung des Strafbefehls
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 353 StPO
+> <sup>1</sup> Der Strafbefehl enthält:
+> >a. die Bezeichnung der verfügenden Behörde;
+> >b. die Bezeichnung der beschuldigten Person;
+> >c. den Sachverhalt, welcher der beschuldigten Person zur Last gelegt wird;
+> >d. die dadurch erfüllten Straftatbestände;
+> >e. die Sanktion;
+> >f. den kurz begründeten Widerruf einer bedingt ausgesprochenen Sanktion oder einer bedingten Entlassung;
+> >fbis. die Löschfrist für ein allfällig bestehendes DNA-Profil;
+> >g. die Kosten- und Entschädigungsfolgen;
+> >h. die Bezeichnung beschlagnahmter Gegenstände und Vermögenswerte, die freigegeben oder eingezogen werden;
+> >i. den Hinweis auf die Möglichkeit der Einsprache und die Folgen einer unterbliebenen Einsprache;
+> >j. Ort und Datum der Ausstellung;
+> >k. die Unterschrift der ausstellenden Person.
+> 
+> <sup>2</sup> Die Staatsanwaltschaft kann im Strafbefehlsverfahren über Zivilforderungen entscheiden, soweit diese von der beschuldigten Person anerkannt sind oder sofern:
+> >a. deren Beurteilung ohne weitere Beweiserhebungen möglich ist; und
+> >b. der Streitwert 30 000 Franken nicht übersteigt.
+> 
+> <sup>3</sup> Der Strafbefehl wird den Personen und Behörden, die zur Einsprache befugt sind, unverzüglich schriftlich eröffnet.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

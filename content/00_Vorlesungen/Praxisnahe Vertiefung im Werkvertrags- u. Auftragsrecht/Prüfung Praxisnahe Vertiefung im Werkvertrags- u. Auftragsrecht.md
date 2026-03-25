@@ -1,0 +1,11 @@
+Zur Prüfung:
+- Voraussichtlich schriftliche Prüfung
+- 2h
+- Fallbeispiele; evtl. abstrakte Fragen
+	- kleine Fälle zum Lösen (1/2 pro Aufgabe)
+- „Wissen und Können“, Urteilsvermögen
+	- Grundwissen aus Lehrbuch
+	- Wichtiges aus den Entschieden
+	- Falllöse Strategie
+	- Urteilsvermögen in Bezug auf Einschätzung von Sachverhalte
+- Reader / Vorlesung

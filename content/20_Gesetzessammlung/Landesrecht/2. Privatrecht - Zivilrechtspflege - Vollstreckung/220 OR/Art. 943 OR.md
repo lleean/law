@@ -1,0 +1,44 @@
+---
+aliases: OR 943
+Gesetz: 'Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen
+  Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)'
+Abkürzung: OR
+Artikel: '943'
+Stand: 1. Januar 2026
+Abteilung: 'Vierte Abteilung: Handelsregister, Geschäftsfirmen und kaufmännische Buchführung'
+Teil: ''
+Titel: 'Dreissigster Titel: Das Handelsregister'
+Kapitel: ''
+Abschnitt: ''
+Marginalien: K. Verordnung
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 943 OR
+> Der Bundesrat erlässt Vorschriften über:
+> >1. die Führung des Handelsregisters und die Oberaufsicht;
+> >2. die Anmeldung, Eintragung, Änderung, Löschung und Wiedereintragung;
+> >3. den Inhalt der Einträge;
+> >4. die Belege und deren Prüfung;
+> >5. die Öffentlichkeit und Wirksamkeit;
+> >6. die Organisation des Schweizerischen Handelsamtsblatts und dessen Veröffentlichung;
+> >7. die Zusammenarbeit und Auskunftspflicht;
+> >8. die Verwendung der AHV-Versichertennummer sowie der Personennummer;
+> >9. die zentralen Datenbanken über die Rechtseinheiten und über die Personen;
+> >10. die Modalitäten der elektronischen Übermittlung;
+> >11. die Verfahren.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

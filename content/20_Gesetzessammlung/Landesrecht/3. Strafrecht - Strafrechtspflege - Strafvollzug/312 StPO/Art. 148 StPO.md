@@ -1,0 +1,38 @@
+---
+aliases: StPO 148
+Gesetz: Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung,
+  StPO)
+Abkürzung: StPO
+Artikel: '148'
+Stand: 1. April 2025
+Abteilung: ''
+Teil: ''
+Titel: '4. Titel: Beweismittel'
+Kapitel: '1. Kapitel: Allgemeine Bestimmungen'
+Abschnitt: '3. Abschnitt: Teilnahmerechte bei Beweiserhebungen'
+Marginalien: Im Rechtshilfeverfahren
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 148 StPO
+> <sup>1</sup> Werden Beweise im Rahmen eines Rechtshilfegesuchs im Ausland erhoben, so ist dem Teilnahmerecht der Parteien Genüge getan, wenn diese:
+> >a. zuhanden der ersuchten ausländischen Behörde Fragen formulieren können;
+> >b. nach Eingang des erledigten Rechtshilfegesuchs Einsicht in das Protokoll erhalten; und
+> >c. schriftliche Ergänzungsfragen stellen können.
+> 
+> <sup>2</sup> Artikel 147 Absatz 4 ist anwendbar.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

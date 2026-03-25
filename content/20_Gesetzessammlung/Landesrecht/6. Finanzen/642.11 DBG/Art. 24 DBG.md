@@ -1,0 +1,46 @@
+---
+aliases: DBG 24
+Gesetz: Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)
+Abkürzung: DBG
+Artikel: '24'
+Stand: 1. Januar 2026
+Abteilung: 'Zweiter Teil: Besteuerung der natürlichen Personen'
+Teil: ''
+Titel: 'Zweiter Titel: Einkommenssteuer'
+Kapitel: '2. Kapitel: Steuerfreie Einkünfte'
+Abschnitt: ''
+Marginalien: ''
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 24 DBG
+> Steuerfrei sind:
+> >a. der Vermögensanfall infolge Erbschaft, Vermächtnis, Schenkung oder güterrechtlicher Auseinandersetzung;
+> >b. der Vermögensanfall aus rückkaufsfähiger privater Kapitalversicherung, ausgenommen aus Freizügigkeitspolicen. Artikel 20 Absatz 1 Buchstabe a bleibt vorbehalten;
+> >c. die Kapitalzahlungen, die bei Stellenwechsel vom Arbeitgeber oder von Einrichtungen der beruflichen Vorsorge ausgerichtet werden, wenn sie der Empfänger innert Jahresfrist zum Einkauf in eine Einrichtung der beruflichen Vorsorge oder zum Erwerb einer Freizügigkeitspolice verwendet;
+> >d. die Unterstützungen aus öffentlichen oder privaten Mitteln;
+> >e. die Leistungen in Erfüllung familienrechtlicher Verpflichtungen, ausgenommen die Unterhaltsbeiträge nach Artikel 23 Buchstabe f;
+> >f. der Sold für Militär- und Schutzdienst sowie das Taschengeld für Zivildienst;
+> >fbis. der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 5400 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
+> >g. die Zahlung von Genugtuungssummen;
+> >h. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
+> >i. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017 (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
+> >ibis. die einzelnen Gewinne bis zum Betrag von 1 071 000 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+> >iter. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
+> >j. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird;
+> >k. Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

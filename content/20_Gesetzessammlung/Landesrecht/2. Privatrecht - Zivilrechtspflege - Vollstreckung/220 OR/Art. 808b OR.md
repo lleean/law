@@ -1,0 +1,48 @@
+---
+aliases: OR 808b
+Gesetz: 'Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen
+  Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)'
+Abkürzung: OR
+Artikel: 808b
+Stand: 1. Januar 2026
+Abteilung: 'Dritte Abteilung: Die Handelsgesellschaften und die Genossenschaft'
+Teil: ''
+Titel: 'Achtundzwanzigster Titel: Die Gesellschaft mit beschränkter Haftung'
+Kapitel: A. Gesellschafterversammlung
+Abschnitt: 'Dritter Abschnitt: Organisation der Gesellschaft'
+Marginalien: V. Beschlussfassung > 3. Wichtige Beschlüsse
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 808b OR
+> <sup>1</sup> Ein Beschluss der Gesellschafterversammlung, der mindestens zwei Drittel der vertretenen Stimmen sowie die absolute Mehrheit des gesamten Stammkapitals auf sich vereinigt, mit dem ein ausübbares Stimmrecht verbunden ist, ist erforderlich für:
+> >1. die Änderung des Gesellschaftszweckes;
+> >2. die Einführung von stimmrechtsprivilegierten Stammanteilen;
+> >3. die Erschwerung, den Ausschluss oder die Erleichterung der Übertragbarkeit der Stammanteile;
+> >4. die Zustimmung zur Abtretung von Stammanteilen beziehungsweise die Anerkennung als stimmberechtigter Gesellschafter;
+> >5. die Erhöhung des Stammkapitals;
+> >6. die Einschränkung oder Aufhebung des Bezugsrechtes;
+> >6bis. den Wechsel der Währung für das Stammkapital;
+> >7. die Zustimmung zu Tätigkeiten der Geschäftsführer sowie der Gesellschafter, die gegen die Treuepflicht oder das Konkurrenzverbot verstossen;
+> >8. den Antrag an das Gericht, einen Gesellschafter aus wichtigem Grund auszuschliessen;
+> >9. den Ausschluss eines Gesellschafters aus in den Statuten vorgesehenen Gründen;
+> >10. die Verlegung des Sitzes der Gesellschaft;
+> >10bis. die Einführung einer statutarischen Schiedsklausel;
+> >11. die Auflösung der Gesellschaft.
+> 
+> <sup>2</sup> Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt, geändert oder aufgehoben werden.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

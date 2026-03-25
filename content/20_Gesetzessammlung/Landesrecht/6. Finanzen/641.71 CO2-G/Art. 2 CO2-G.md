@@ -1,0 +1,43 @@
+---
+aliases: CO2-G 2
+Gesetz: Bundesgesetz vom 23. Dezember 2011 über die Reduktion der CO<sub>2</sub>-Emissionen
+  (CO<sub>2</sub>-Gesetz)
+Abkürzung: CO2-G
+Artikel: '2'
+Stand: 1. Januar 2025
+Abteilung: ''
+Teil: ''
+Titel: ''
+Kapitel: '1. Kapitel: Allgemeine Bestimmungen'
+Abschnitt: ''
+Marginalien: Begriffe
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 2 CO2-G
+> In diesem Gesetz bedeuten:
+> >a. *fossile Brennstoffe:* fossile Energieträger, die zur Gewinnung von Wärme, zur Erzeugung von Licht, in thermischen Anlagen zur Stromproduktion oder für den Betrieb von Wärme-Kraft-Koppelungsanlagen (WKK-Anlagen) verwendet werden;
+> >b. *fossile Treibstoffe:* fossile Energieträger, die in Verbrennungsmotoren zur Krafterzeugung eingesetzt werden;
+> >c. *Emissionsrechte:* handelbare Berechtigungen zum Ausstoss von Treibhausgasen, die vom Bund oder von Staaten oder Staatengemeinschaften mit vom Bundesrat anerkannten Emissionshandelssystemen (EHS) kostenlos zugeteilt oder versteigert werden;
+> >d. *nationale Bescheinigungen**:* in der Schweiz handelbare Bescheinigungen über in der Schweiz nachweislich erzielte Verminderungen von Treibhausgasemissionen oder Erhöhungen der Senkenleistung;
+> >e. *Emissionsminderungszertifikate:* international anerkannte handelbare Bescheinigungen über im Ausland nachweislich erzielte Emissionsverminderungen nach dem Protokoll von Kyoto vom 11. Dezember 1997 zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen;
+> >f. *internationale Bescheinigungen:* Bescheinigungen über im Ausland nachweislich erzielte Verminderungen von Treibhausgasemissionen oder Erhöhungen der Senkenleistung nach dem Klimaübereinkommen vom 12. Dezember 2015;
+> >g. *Anlagen:* ortsfeste technische Einheiten an einem Standort;
+> >h. *Senkenleistung:* die anrechenbare Entnahme von CO2 aus der Atmosphäre und dessen Bindung in Kohlenstoffspeichern;
+> >i. *Klimaschutz:* die Gesamtheit der Massnahmen, die zur Verminderung der Treibhausgasemissionen oder zur Erhöhung der Senkenleistung beitragen und mögliche Folgen der erhöhten Treibhausgaskonzentration in der Atmosphäre abmildern oder verhindern sollen;
+> >j. *Anbieter von Flugtreibstoffen*: Anbieter, die Flugtreibstoffe oder Wasserstoff für die Luftfahrt bereitstellen, und Betreiber von Luftfahrzeugen, die Flugtreibstoffe oder Wasserstoff für den gewerbsmässigen Eigengebrauch selber erwerben oder produzieren.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

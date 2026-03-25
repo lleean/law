@@ -1,0 +1,38 @@
+---
+aliases: ZPO 302
+Gesetz: Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung,
+  ZPO)
+Abkürzung: ZPO
+Artikel: '302'
+Stand: 1. Januar 2025
+Abteilung: '2. Teil: Besondere Bestimmungen'
+Teil: ''
+Titel: '7. Titel: Kinderbelange in familienrechtlichen Angelegenheiten'
+Kapitel: '2. Kapitel: Summarisches Verfahren: Geltungsbereich'
+Abschnitt: ''
+Marginalien: …
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 302 ZPO
+> <sup>1</sup> Das summarische Verfahren ist insbesondere anwendbar für:
+> >a. Entscheide nach dem Haager Übereinkommen vom 25. Oktober 1980 über die zivilrechtlichen Aspekte internationaler Kindesentführung und nach dem Europäischen Übereinkommen vom 20. Mai 1980 über die Anerkennung und Vollstreckung von Entscheidungen über das Sorgerecht für Kinder und die Wiederherstellung des Sorgerechts;
+> >b. die Leistung eines besonderen Beitrags bei nicht vorgesehenen ausserordentlichen Bedürfnissen des Kindes ([[Art. 286 ZGB|Art. 286 Abs. 3 ZGB]]);
+> >c. die Anweisung an die Schuldner und die Sicherstellung des Kinderunterhalts ausserhalb eines Prozesses über die Unterhaltspflicht der Eltern (Art. 291 und 292 ZGB).
+> 
+> <sup>2</sup> Die Bestimmungen des Bundesgesetzes vom 21. Dezember 2007 über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen sind vorbehalten.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

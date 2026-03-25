@@ -1,0 +1,55 @@
+name: Deploy Quartz → GitHub Pages
+
+on:
+  push:
+    branches:
+      - main          # Jeder Push auf main löst Deployment aus
+  workflow_dispatch:  # Manueller Start über GitHub UI möglich
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Verhindert mehrere parallele Deployments
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build Quartz
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # Vollständige Git-History (für "zuletzt geändert"-Datum)
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Quartz
+        run: npx quartz build
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

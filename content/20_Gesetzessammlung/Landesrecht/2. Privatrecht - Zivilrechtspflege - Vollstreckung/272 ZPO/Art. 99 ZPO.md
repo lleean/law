@@ -1,0 +1,45 @@
+---
+aliases: ZPO 99
+Gesetz: Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung,
+  ZPO)
+Abkürzung: ZPO
+Artikel: '99'
+Stand: 1. Januar 2025
+Abteilung: '1. Teil: Allgemeine Bestimmungen'
+Teil: ''
+Titel: '8. Titel: Prozesskosten und unentgeltliche Rechtspflege'
+Kapitel: '1. Kapitel: Prozesskosten'
+Abschnitt: ''
+Marginalien: Sicherheit für die Parteientschädigung
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 99 ZPO
+> <sup>1</sup> Die klagende Partei hat auf Antrag der beklagten Partei für deren Parteientschädigung Sicherheit zu leisten, wenn sie:
+> >a. keinen Wohnsitz oder Sitz in der Schweiz hat;
+> >b. zahlungsunfähig erscheint, namentlich wenn gegen sie der Konkurs eröffnet oder ein Nachlassverfahren im Gang ist oder Verlustscheine bestehen;
+> >c. Prozesskosten aus früheren Verfahren schuldet; oder
+> >d. wenn andere Gründe für eine erhebliche Gefährdung der Parteientschädigung bestehen.
+> 
+> <sup>2</sup> Bei notwendiger Streitgenossenschaft ist nur dann Sicherheit zu leisten, wenn bei allen Streitgenossen eine der Voraussetzungen gegeben ist.
+> 
+> <sup>3</sup> Keine Sicherheit ist zu leisten:
+> >a. im vereinfachten Verfahren mit Ausnahme der vermögensrechtlichen Streitigkeiten nach Artikel 243 Absatz 1;
+> >b. im Scheidungsverfahren;
+> >c. im summarischen Verfahren mit Ausnahme des Rechtsschutzes in klaren Fällen (Art. 257);
+> >d. im Verfahren wegen einer Streitigkeit nach dem DSG.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

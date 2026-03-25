@@ -1,0 +1,45 @@
+---
+aliases: EntG 64
+Gesetz: Bundesgesetz vom 20. Juni 1930 über die Enteignung (EntG)
+Abkürzung: EntG
+Artikel: '64'
+Stand: 1. Januar 2021
+Abteilung: ''
+Teil: ''
+Titel: ''
+Kapitel: I. Zuständigkeit
+Abschnitt: 'Abschnitt VIa: Schätzungsverfahren'
+Marginalien: a. Sachliche
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 64 EntG
+> <sup>1</sup> Die Schätzungskommission entscheidet namentlich:
+> >a. über die Höhe der Entschädigung (Art. 16 und 17);
+> >b. über die Begehren um Trennung von Bestandteilen und Zugehör (Art. 11) und um Ausdehnung der Enteignung (Art. 12 und 13);
+> >bbis. über Entschädigungsforderungen für den Schaden aus vorbereitenden Handlungen (Art. 15 Abs. 3);
+> >c. über Entschädigungsbegehren, die sich aus der Pflicht zur Wahrung öffentlicher und nachbarrechtlicher Interessen ergeben (Art. 7);
+> >d. über neue Eigentumsverhältnisse und die daraus sich ergebende Mehrbelastung für Unterhalt (Art. 26);
+> >e. über die Entschädigungsbegehren wegen Verzichtes auf die Enteignung (Art. 14);
+> >f. über die Entschädigungsbegehren aus dem Enteignungsbann (Art. 44);
+> >g. über Begehren um vorzeitige Besitzeinweisung und die damit verbundenen Leistungen, soweit zum Entscheid nicht gemäss Artikel 76 Absatz 2 der Präsident zuständig ist;
+> >h. über die Folgen des Verzuges in der Leistung der Enteignungsentschädigung (Art. 88);
+> >i. über das Rückforderungsrecht des Enteigneten und die damit zusammenhängenden Begehren (Art. 108);
+> >k. …
+> 
+> <sup>2</sup> Die Schätzungskommission entscheidet selbst über ihre Zuständigkeit.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

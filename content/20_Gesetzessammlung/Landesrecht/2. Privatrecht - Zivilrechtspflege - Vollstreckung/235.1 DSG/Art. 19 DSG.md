@@ -1,0 +1,43 @@
+---
+aliases: DSG 19
+Gesetz: Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)
+Abkürzung: DSG
+Artikel: '19'
+Stand: 7. Juli 2025
+Abteilung: '-'
+Teil: '-'
+Titel: '-'
+Kapitel: '3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters'
+Abschnitt: ''
+Marginalien: Informationspflicht bei der Beschaffung von Personendaten
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 19 DSG
+> <sup>1</sup> Der Verantwortliche informiert die betroffene Person angemessen über die Beschaffung von Personendaten; diese Informationspflicht gilt auch, wenn die Daten nicht bei der betroffenen Person beschafft werden.
+> 
+> <sup>2</sup> Er teilt der betroffenen Person bei der Beschaffung diejenigen Informationen mit, die erforderlich sind, damit sie ihre Rechte nach diesem Gesetz geltend machen kann und eine transparente Datenbearbeitung gewährleistet ist; er teilt ihr mindestens mit:
+> >a. die Identität und die Kontaktdaten des Verantwortlichen;
+> >b. den Bearbeitungszweck;
+> >c. gegebenenfalls die Empfängerinnen und Empfänger oder die Kategorien von Empfängerinnen und Empfängern, denen Personendaten bekanntgegeben werden.
+> 
+> <sup>3</sup> Werden die Daten nicht bei der betroffenen Person beschafft, so teilt er ihr zudem die Kategorien der bearbeiteten Personendaten mit.
+> 
+> <sup>4</sup> Werden die Personendaten ins Ausland bekanntgegeben, so teilt er der betroffenen Person auch den Staat oder das internationale Organ und gegebenenfalls die Garantien nach Artikel 16 Absatz 2 oder die Anwendung einer Ausnahme nach Artikel 17 mit.
+> 
+> <sup>5</sup> Werden die Daten nicht bei der betroffenen Person beschafft, so teilt er ihr die Informationen nach den Absätzen 2–4 spätestens einen Monat, nachdem er die Daten erhalten hat, mit. Gibt der Verantwortliche die Personendaten vor Ablauf dieser Frist bekannt, so informiert er die betroffene Person spätestens im Zeitpunkt der Bekanntgabe.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

@@ -1,0 +1,63 @@
+---
+aliases: USG 60
+Gesetz: Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzgesetz,
+  USG)
+Abkürzung: USG
+Artikel: '60'
+Stand: 1. April 2025
+Abteilung: ''
+Teil: ''
+Titel: '5. Titel: Strafbestimmungen'
+Kapitel: ''
+Abschnitt: ''
+Marginalien: Verbrechen und Vergehen
+Status: 🔴 Ungeprüft
+---
+
+# I. Gesetzestext
+> [!abstract] Art. 60 USG
+> <sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:
+> >a. die zur Verhinderung von Katastrophen verfügten Sicherheitsmassnahmen unterlässt oder das Verbot bestimmter Produktionsverfahren oder Lagerhaltungen missachtet (Art. 10);
+> >b. Stoffe, von denen er weiss oder wissen muss, dass bestimmte Verwendungen die Umwelt oder mittelbar den Menschen gefährden können, für diese Verwendungen in Verkehr bringt (Art. 26);
+> >c. Stoffe in Verkehr bringt, ohne den Abnehmer über die umweltbezogenen Eigenschaften zu informieren (Art. 27 Abs. 1 Bst. a) oder über den vorschriftsgemässen Umgang anzuweisen (Art. 27 Abs. 1 Bst. b);
+> >d. mit Stoffen entgegen den Anweisungen so umgeht, dass sie, ihre Folgeprodukte oder Abfälle die Umwelt oder mittelbar den Menschen gefährden können (Art. 28);
+> >e. Vorschriften über Stoffe oder Organismen verletzt (Art. 29, 29*b* Abs. 2, 29*f*, 30*a* Bst. b und 34 Abs. 1);
+> >f. mit Organismen so umgeht, dass die Grundsätze von Artikel 29*a* Absatz 1 verletzt werden;
+> >g. beim Umgang mit pathogenen Organismen nicht alle notwendigen Einschliessungsmassnahmen trifft (Art. 29*b* Abs. 1);
+> >h. pathogene Organismen ohne Bewilligung im Versuch freisetzt oder für Verwendungen in der Umwelt in Verkehr bringt (Art. 29*c* Abs. 1 und 29*d* Abs. 3 und 4);
+> >i. Organismen, von denen er weiss oder wissen muss, dass bei bestimmten Verwendungen die Grundsätze von Artikel 29*a* Absatz 1 verletzt werden, in Verkehr bringt (Art. 29*d* Abs. 1);
+> >j. Organismen in Verkehr bringt, ohne den Abnehmer entsprechend zu informieren und anzuweisen (Art. 29*e* Abs. 1);
+> >k. mit Organismen entgegen den Anweisungen umgeht (Art. 29*e* Abs. 2);
+> >l. …
+> >m. eine Deponie ohne Bewilligung errichtet oder betreibt (Art. 30*e* Abs. 2);
+> >n. Sonderabfälle für die Übergabe nicht kennzeichnet (Art. 30*f* Abs. 2 Bst. a) oder an eine Unternehmung übergibt, die keine Bewilligung besitzt (Art. 30*f*  Abs. 2 Bst. b);
+> >o. Sonderabfälle ohne Bewilligung entgegennimmt oder die Ein- oder Ausfuhr ohne Bewilligung veranlasst (Art. 30*f* Abs. 2 Bst. c und d);
+> >p. Vorschriften über den Verkehr mit Sonderabfällen verletzt (Art. 30*f* Abs. 1);
+> >q. Vorschriften über Abfälle (Art. 30*a* Bst. b) verletzt;
+> >r. Vorschriften über das erstmalige Inverkehrbringen von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35*e* Absatz 3 bezeichnet wurden, verletzt (Art. 35*e* und 35*f* Abs. 1 und 2 Bst. a);
+> >s. Vorschriften über die ressourcenschonende Gestaltung von Produkten und Verpackungen verletzt (Art. 35*i* Abs. 1);
+> >t. erneuerbare Brenn- oder Treibstoffe in Verkehr bringt, die die ökologischen Anforderungen nach Artikel 35*d* Absatz 1 oder 4 nicht erfüllen, oder falsche oder unvollständige Angaben dazu macht;
+> >u. gegen das Verbot nach Artikel 35*d* Absatz 2 verstösst.
+> 
+> <sup>1bis</sup> Bei erschwerenden Umständen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Erschwerende Umstände liegen vor, wenn:
+> >a. die durch die Widerhandlung herbeigeführte Gefährdung von Mensch oder Umwelt schwerwiegend ist;
+> >b. die Widerhandlung gewerbsmässig begangen wird; oder
+> >c. die Widerhandlung vom Täter als Mitglied einer Bande begangen wird, die sich zur fortgesetzten Ausübung von Widerhandlungen gegen dieses Gesetz zusammengefunden hat.
+> 
+> <sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.
+> 
+> <sup>3</sup> Das BAZG verfolgt und beurteilt Vergehen nach Absatz 1 Buchstaben t und u.
+
+# II. Tatbestand
+
+# III. Rechtsfolge
+
+# IV. Systematische Einordnung
+## Normzweck
+## Verhältnis zu anderen Normen
+
+# V. Bemerkungen & Lehrmeinungen
+
+# VI. Relevante Rechtsprechung
+
+# VII. Materialien

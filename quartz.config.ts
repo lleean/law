@@ -2,62 +2,72 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration
+ * Quartz-Konfiguration – Law Vault von Kilian Lerch
  *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * lleean und law werden beim
+ * Setup-Skript automatisch ersetzt.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Law – Kilian Lerch",
+    pageTitleSuffix: " | Law",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    analytics: null,   // kein Tracking
+    locale: "de-CH",
+    baseUrl: "lleean.github.io/law",
+
+    // Ordner/Dateien die NICHT veröffentlicht werden:
+    ignorePatterns: [
+      ".obsidian",
+      "_Templates",
+      "Drafts",
+      "Excalidraw",
+      "private",
+      "*.canvas",         // Obsidian Canvas-Dateien
+    ],
+
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Playfair Display",    // Klassisch, passend für Jura
+        body: "Source Serif 4",        // Gut lesbar für lange Texte
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fafaf8",           // Leicht warmes Weiß
+          lightgray: "#e8e8e4",
+          gray: "#a0a09a",
+          darkgray: "#3d3d38",
+          dark: "#1a1a18",
+          secondary: "#1a4a7a",       // Dunkelblau (juristisch, seriös)
+          tertiary: "#5a8a5a",        // Grün für Akzente
+          highlight: "rgba(26, 74, 122, 0.10)",
+          textHighlight: "#fff176",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#18181a",
+          lightgray: "#2c2c30",
+          gray: "#5a5a60",
+          darkgray: "#c8c8cc",
+          dark: "#ebebed",
+          secondary: "#6fa3d4",       // Hellblau im Dark Mode
+          tertiary: "#84a98c",
+          highlight: "rgba(111, 163, 212, 0.15)",
+          textHighlight: "#fff17680",
         },
       },
     },
   },
+
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -66,14 +76,34 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({
+        enableInHtmlEmbed: false,
+        wikilinks: true,          // [[Wikilinks]] unterstützen
+        callouts: true,           // Obsidian Callouts (> [!info] etc.)
+        mermaid: true,            // Diagramme
+        parseTags: true,
+        parseArrows: true,
+        parseBlockReferences: true,
+      }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.TableOfContents({
+        maxDepth: 3,
+        minEntries: 2,            // Inhaltsverzeichnis nur bei >2 Überschriften
+      }),
+      Plugin.CrawlLinks({
+        markdownLinkResolution: "shortest",
+        openLinksInNewTab: false,
+      }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+
+    filters: [
+      Plugin.RemoveDrafts(),      // Notizen mit "draft: true" ausblenden
+      Plugin.ExplicitPublish(),   // Optional: nur Notizen mit "publish: true" veröffentlichen
+                                  // ← Auskommentieren wenn ALLE Notizen veröffentlicht werden sollen
+    ],
+
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -86,10 +116,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }
