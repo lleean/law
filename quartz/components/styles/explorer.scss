@@ -130,6 +130,15 @@ button.desktop-explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      display: block;
+      padding: 0.15rem 0.3rem;
+      border-radius: 4px;
+      margin: 0.1rem 0;
+
+      &:hover {
+        background-color: var(--highlight);
+        opacity: 1;
+      }
 
       &.active {
         opacity: 1;
@@ -163,8 +172,15 @@ button.desktop-explorer {
 .folder-container {
   flex-direction: row;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   user-select: none;
+  padding: 0.15rem 0.3rem;
+  border-radius: 4px;
+  margin: 0.1rem 0;
+
+  &:hover {
+    background-color: var(--highlight);
+  }
 
   & div > a {
     color: var(--secondary);
