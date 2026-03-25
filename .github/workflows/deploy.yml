@@ -39,12 +39,14 @@ jobs:
 
       - name: Encrypt with StatiCrypt
         run: |
-          npx staticrypt public/ \
-            --recursive \
-            --password "${{ secrets.STATICRYPT_PASSWORD }}" \
-            --remember 7 \
-            --template-title "Law – Kilian Lerch" \
-            --template-instructions "Bitte Passwort eingeben."
+          find public -name "*.html" | while read f; do
+            npx staticrypt "$f" \
+              --password "${{ secrets.STATICRYPT_PASSWORD }}" \
+              --remember 7 \
+              --template-title "Law – Kilian Lerch" \
+              --template-instructions "Bitte Passwort eingeben." \
+              -d "$(dirname "$f")"
+          done
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
